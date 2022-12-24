@@ -13,6 +13,7 @@
 		5D81BFD4295622630012B43D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5D81BFD2295622630012B43D /* Main.storyboard */; };
 		5D81BFD6295622640012B43D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5D81BFD5295622640012B43D /* Assets.xcassets */; };
 		5D81BFD9295622640012B43D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5D81BFD7295622640012B43D /* LaunchScreen.storyboard */; };
+		5D81BFE129562C3C0012B43D /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D81BFE029562C3C0012B43D /* User.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		5D81BFD5295622640012B43D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5D81BFD8295622640012B43D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5D81BFDA295622640012B43D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5D81BFE029562C3C0012B43D /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				5D81BFCC295622630012B43D /* AppDelegate.swift */,
 				5D81BFCE295622630012B43D /* SceneDelegate.swift */,
 				5D81BFD0295622630012B43D /* ViewController.swift */,
+				5D81BFE029562C3C0012B43D /* User.swift */,
 				5D81BFD2295622630012B43D /* Main.storyboard */,
 				5D81BFD5295622640012B43D /* Assets.xcassets */,
 				5D81BFD7295622640012B43D /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5D81BFE129562C3C0012B43D /* User.swift in Sources */,
 				5D81BFD1295622630012B43D /* ViewController.swift in Sources */,
 				5D81BFCD295622630012B43D /* AppDelegate.swift in Sources */,
 				5D81BFCF295622630012B43D /* SceneDelegate.swift in Sources */,
